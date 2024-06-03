@@ -94,4 +94,7 @@ The demographics of users can reveal a lot of information, such as which countri
 We can see top 3 active user group come from India, Germany and US.
 
 Also can build geomap to identify which country haven't access to this forum. 
+
+![map](map.png "map")
+
 From the map, we can see almost user in every country engage with this math forum (Cross Validated), there is a few countries with little or no population such as Greenland, Africa continent and Papua New Guinea
