@@ -1,7 +1,7 @@
 # Cross Validated - Stack Exchange text mining and sentiment analysis
 
 ## Language:
-Python: numpy, pandas, NLP (SentimentIntensityAnalyzer)
+Python: numpy, pandas, NLP (SentimentIntensityAnalyzer, CountVectorizer)
 
 ## Overview:
 
